@@ -1,0 +1,22 @@
+{
+  "name": "mob2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yysun2000/mob2.git"
+  },
+  "keywords": [
+    "mob2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yysun2000/mob2/issues"
+  },
+  "homepage": "https://github.com/yysun2000/mob2#readme"
+}
